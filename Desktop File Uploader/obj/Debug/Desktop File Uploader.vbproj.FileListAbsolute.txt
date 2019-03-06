@@ -1,0 +1,10 @@
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\bin\Debug\Desktop File Uploader.exe.config
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\bin\Debug\Desktop File Uploader.exe
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\bin\Debug\Desktop File Uploader.pdb
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\bin\Debug\Desktop File Uploader.xml
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\obj\Debug\Desktop_File_Uploader.Form1.resources
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\obj\Debug\Desktop_File_Uploader.Resources.resources
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\obj\Debug\Desktop File Uploader.vbproj.GenerateResource.Cache
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\obj\Debug\Desktop File Uploader.exe
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\obj\Debug\Desktop File Uploader.xml
+c:\users\x-slayer\documents\visual studio 2013\Projects\Desktop File Uploader\Desktop File Uploader\obj\Debug\Desktop File Uploader.pdb
