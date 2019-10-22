@@ -52,7 +52,7 @@ Public Class Form1
             Items(sender).SubItems(1).Text = "Error..."
             Items(sender).SubItems(1).ForeColor = Color.Red
         ElseIf e.Result IsNot Nothing Then
-            Dim URL As String = "https://anonfile.com/api/upload"
+            Dim URL As String = "https://api.anonfile.com/upload"
             Dim token As String = Regex.Match(e.Result, " {'X-CSRF-Token': '(.*?)'}").Groups(1).Value
             Using WC As New WebClient
 
